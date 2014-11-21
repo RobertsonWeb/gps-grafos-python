@@ -11,8 +11,10 @@ Ler o mapa no formato GML, oferecer as cidades disponíveis num menu onde o usu�
 
 ###Instalar/Rodar:
 
-***Pré-requisito:** Ter o GIT instalado na máquina.*
-***Obs.:** Comandos do virtualenv compativeis com Linux/MAC se usar Windows dê uma pesquisada...*
+**Pré-requisito:** Ter o GIT instalado na máquina.
+
+**Obs.:** Comandos do virtualenv compativeis com Linux/MAC se usar Windows dê uma pesquisada...
+
 
 Clonar o projeto git:
 ```shell
