@@ -15,6 +15,7 @@ Ler o mapa no formato GML, oferecer as cidades disponíveis num menu onde o usu�
 
 **Obs.:** Comandos do virtualenv compativeis com Linux/MAC se usar Windows dê uma pesquisada...
 
+--
 
 Clonar o projeto git:
 ```shell
