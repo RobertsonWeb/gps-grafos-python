@@ -10,16 +10,35 @@ Ler o mapa no formato GML, oferecer as cidades disponíveis num menu onde o usu�
 
 
 ###Instalar/Rodar:
+
+*** Pré-requisito: GIT instalado ***
+
+Clonar o projeto git:
 ```shell
 git clone git@bitbucket.org:robertsonweb/gps-grafos-python.git
+```
 
+Acessar o diretório:
+```shell
 cd gps-grafos-python
+```
 
+Criar a virtualenv:
+```shell
 virtualenv venv
+```
 
+Ativar a virtualenv:
+```shell
 source venv/bin/activate
+```
 
+Instalar as dependências da virtualenv:
+```shell
 pip install -r requirements.txt
+```
 
+Rodar o programa:
+```shell
 python main.py
 ```
